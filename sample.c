@@ -10,7 +10,7 @@
       for (c = 1; c <= n; c++)
         fact = fact * c;
      
-      printf("Factorial is %d = %d\n", n, fact);
+      printf("F is %d = %d\n", n, fact);
      
       return 0;
     }
